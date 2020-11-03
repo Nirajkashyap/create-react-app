@@ -1,10 +1,10 @@
 {
   "name": "niraj38re-react-scripts",
-  "version": "4.0.0",
+  "version": "4.2.0",
   "description": "Configuration and scripts for Create React App by niraj kashyap",
   "repository": {
     "type": "git",
-    "url": "https://github.com/facebook/create-react-app.git",
+    "url": "https://github.com/nirajkashyap/create-react-app.git",
     "directory": "packages/react-scripts"
   },
   "license": "MIT",
@@ -12,7 +12,7 @@
     "node": "^10.12.0 || >=12.0.0"
   },
   "bugs": {
-    "url": "https://github.com/facebook/create-react-app/issues"
+    "url": "https://github.com/nirajkashyap/create-react-app/issues"
   },
   "files": [
     "bin",
